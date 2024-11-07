@@ -5,7 +5,7 @@ This repository contains my learning notes on Graph Neural Networks (GNNs). I wi
 
 
 For guidance on setting up the environment and installing necessary dependencies, refer to [this Colab notebook](https://colab.research.google.com/drive/18PQ-B2wDmomjPtHroLNg_aH3hFniLNKn#scrollTo=J_m9l6OYCQZP). 
----
+
 
 
 ### Useful Commands
